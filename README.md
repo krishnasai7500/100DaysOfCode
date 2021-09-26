@@ -1,7 +1,6 @@
 # My #100DaysOfCode Journey
 
-**Chandrika Deb**  
-*Software Engineer, Amdocs* 
+
 
 ## Timeline
 
